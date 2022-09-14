@@ -7,7 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello from V2</h1>
+        <h1>Que pasa oe!</h1>
+        <form>
+          <label>nombre</label>
+          <input></input>
+        </form>
       </header>
     </div>
   );
